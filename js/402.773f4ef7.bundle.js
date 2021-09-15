@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[402],{65402:function(e,t,n){n.r(t);var o=n(67294);t.default=function(){return o.createElement("div",{style:{position:"relative",height:"100%"}},o.createElement("p",{style:{fontSize:"40px",position:"absolute",left:"50%",top:"50%",transform:"translate(-50%, -50%)"}},"Yoo Welcome !"))}}}]);
